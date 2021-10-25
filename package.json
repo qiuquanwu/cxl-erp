@@ -1,0 +1,21 @@
+{
+  "name": "cxl-erp",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vicons/ionicons5": "^0.11.0",
+    "qs": "^6.10.1",
+    "vue": "^3.2.16",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "naive-ui": "^2.19.9",
+    "vfonts": "^0.1.0",
+    "vite": "^2.6.4"
+  }
+}
